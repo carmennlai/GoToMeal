@@ -1,0 +1,12 @@
+name: GoToMeals
+title: GoToMeals
+username:
+account: hanamunira
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 949587
+bundleId: 2109522
+url: https://hanamunira.shinyapps.io/GoToMeals/
+when: 1558881854.3294
+asMultiple: FALSE
+asStatic: FALSE
